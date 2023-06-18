@@ -1,0 +1,7 @@
+beautifulsoup4
+requests
+pinecone-client
+unstructured
+llama-index
+langchain
+InstructorEmbedding
